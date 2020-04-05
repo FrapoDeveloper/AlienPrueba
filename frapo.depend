@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1584997546 source:d:\frapo\3d\ciudadopengl\main.cpp
+	<gl/glut.h>
+	<stdio.h>
+
+1566517722 d:\frapo\3d\ciudadopengl\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1566517722 d:\frapo\3d\ciudadopengl\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1586118295 source:c:\users\frapodeveloper\desktop\alien\main.cpp
+	<gl/glut.h>
+	<stdio.h>
+
+1566517722 c:\users\frapodeveloper\desktop\alien\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1566517722 c:\users\frapodeveloper\desktop\alien\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
